@@ -1,2 +1,2 @@
 # Analise-Crimes
-Analises de crime em Los Angeles
+obs: Por o arquivo CSV ser muito grande para o github, você podera baixa-lo em ZIP.
